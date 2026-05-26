@@ -20,16 +20,29 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-- Python
-- Java
+## 🛠️ Tech Stack
 
-### AI/ML
-- LangChain
-- Mistral AI
-- Gemini API
-- Embeddings
-- RAG
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,git,github,vscode,docker,mysql" />
+
+</p>
+
+---
+
+## 🤖 AI / Generative AI
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Mistral_AI-orange?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/RAG-AI-blueviolet?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Embeddings-Vector_Search-blue?style=for-the-badge" />
+
+</p>
 
 ### Tools & Frameworks
 - Git & GitHub
