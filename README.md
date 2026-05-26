@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya Sharma
 
-<!--
-**AdityaSharma1325/AdityaSharma1325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Generative AI Developer | Python Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+- 🤖 Learning Generative AI, LangChain & RAG
+- 💻 Building AI Chatbots and Real-Time AI Systems
+- 📚 Exploring FastAPI, Vector Databases & Embeddings
+- 🌱 Currently improving my AI Engineering skills
+- ⚡ Open to internships and collaborations
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- Java
+
+### AI/ML
+- LangChain
+- Mistral AI
+- Gemini API
+- Embeddings
+- RAG
+
+### Tools & Frameworks
+- Git & GitHub
+- VS Code
+- FastAPI
+- Streamlit
+
+---
+
+## 📌 Current Projects
+
+- 🤖 AI Chatbot using Mistral API
+- 📄 PDF Question Answering System
+- 📊 Vehicle Telemetry Dashboard
+- 🔍 Embedding & Vector Search Projects
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/AdityaSharma1325
+
+---
+
+⭐ “Consistency beats intensity.”
