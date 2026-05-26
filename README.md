@@ -35,6 +35,24 @@
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSharma1325&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSharma1325&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSharma1325&layout=compact&theme=tokyonight"/>
+</p>
+
 ## 📌 Current Projects
 
 - 🤖 AI Chatbot using Mistral API
