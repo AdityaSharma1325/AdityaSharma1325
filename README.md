@@ -1,4 +1,8 @@
-# Hi 👋, I'm Aditya Sharma
+<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Generative+AI+Developer;Python+Developer;Building+AI+Chatbots;Learning+LangChain+%26+RAG;Future+AI+Engineer" />
+</p>
 
 ### 🚀 Generative AI Developer | Python Developer | AI Enthusiast
 
