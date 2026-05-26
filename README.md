@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.gif" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 
 <p align="center">
