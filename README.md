@@ -44,11 +44,7 @@
 
 </p>
 
-### Tools & Frameworks
-- Git & GitHub
-- VS Code
-- FastAPI
-- Streamlit
+
 
 ---
 
